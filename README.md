@@ -13,7 +13,7 @@ This project combines historical international match data with FIFA rankings to 
 
 I first cleaned and merged match data with ranking data, ensuring that each match used only the most recent available rankings at the time to avoid data leakage. I then engineered features such as rank differential, points differential, and recent team form.
 
-Using these features, I trained a classification model to predict match outcomes (home win, away win, draw). The model achieved approximately 56% accuracy, outperforming a baseline of ~47%.
+Using these features, I trained a classification model to predict match outcomes (home win, away win, draw). The model achieved approximately 57% accuracy, outperforming a baseline of ~47%.
 
 I then used the model’s predicted probabilities to simulate the 2026 World Cup:
 - Simulated group stage results using a points-based system  
