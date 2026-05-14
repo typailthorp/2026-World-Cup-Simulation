@@ -2,7 +2,7 @@
 
 A machine learning and simulation project that predicts international football match outcomes and simulates the 2026 FIFA World Cup.
 
-Link to project: [Add your GitHub repo link here]
+Link to project:(https://github.com/typailthorp/2026-World-Cup-Simulation)
 
 ---
 
